@@ -1,3 +1,3 @@
 ### RUN
-RUN command will use for install softwares.
-RUN command execute while image creation.
+
+Run instruction we use to install software, packages and other tasks. It runs at the time of image building.
