@@ -1,5 +1,4 @@
-### Dockerfiles
-dockerfile is a Declarative way of creating our own images.
+#### Docker files
 
-```
-docker build -t [docker-hub-url]/[your-username]/[your-imagename]:verison .
+Docker file is a Declarative way of creating our own images.
+in docker Images first instruction should be "FROM"
